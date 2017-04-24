@@ -14,7 +14,12 @@
 
 #quote {
   color: white;
-  margin-left: 600px;
+  margin-left: 300px;
+  margin-top:-550px;
+  font-size: 20px;
+  line-height: 15px;
+}
+#quote2 {margin-left: 30px;
 }
 
 h1 {
@@ -34,8 +39,14 @@ hr {margin-top: -28px;
 
 }
 
-h2 {margin-left: 300px;
-  margin-top: -23px;
+h2 {margin-left: 200px;
+  margin-top: -15px;
   color: grey;
-  s
+  font-size: 30px;
+  font-weight: 100;
+}
+
+
+#summary {
+  width: 330px;
 }
